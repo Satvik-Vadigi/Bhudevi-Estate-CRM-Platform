@@ -37,8 +37,8 @@ export default function Footer() {
         <div>
           <h3 className="font-bold text-lg">Contact</h3>
           <div className="mt-4 space-y-3 text-gray-400">
-            <p>+91 98765 43210</p>
-            <p>info@bhudeviestate.com</p>
+            <p>+91 999999999</p>
+            <p>bhudevi.notworking@gmail.com</p>
             <p>Available 24/7</p>
           </div>
         </div>
