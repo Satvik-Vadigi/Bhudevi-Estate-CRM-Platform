@@ -128,7 +128,7 @@ export default function ContactPage() {
           </div>
 
           <a
-            href="https://wa.me/919876543210"
+            href="https://wa.me/+91999999999"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block mt-8 bg-green-700 hover:bg-green-800 text-white px-7 py-4 rounded-xl font-semibold"
