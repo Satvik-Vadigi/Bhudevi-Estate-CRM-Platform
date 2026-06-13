@@ -47,6 +47,7 @@ export default function Footer() {
 
       <div className="border-t border-white/10 mt-12 pt-8 text-center text-gray-500 px-6">
         © 2026 Bhudevi Estate. All rights reserved.
+        The contact details are not working/real, so kindly assume it for testing purpose only
       </div>
     </footer>
   );
