@@ -108,7 +108,7 @@ export default async function HomePage() {
                   </p>
 
                   <p className="text-green-700 font-bold text-xl mt-4">
-                    ₹ {property.price}
+                    $ {property.price}
                   </p>
 
                   <p className="text-gray-500 mt-2">
